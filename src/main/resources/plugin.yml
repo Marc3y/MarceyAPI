@@ -1,0 +1,4 @@
+name: MarceyAPI
+version: '${project.version}'
+main: de.marcey.marceyapi.MarceyMinecraftAPI
+api-version: 1.19
